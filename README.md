@@ -1,4 +1,6 @@
-### Hi there 👋
+### Falaaaa Galerinha, tudo bão com vocês? 👋
+-------------
+![](https://github.com/felipeSima/felipeSima/blob/main/recursos/Group%209.png)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipeSima&count_private=true&show_icons=true&title_color=f75026&bg_color=2e2e2e&text_color=f5f5f5&icon_color=f75026&hide=issues,contribs)
 ](https://github.com/anuraghazra/github-readme-stats)
 
