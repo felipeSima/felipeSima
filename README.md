@@ -4,9 +4,10 @@
 Formado em engenharia eletrônica mas apaixonado pela engenharia de software, trabalho atualmente com desenvolvimento mobile.
 Como todo super-heroi, uso minhas habilidades mágicas pra transformas linhas de lógica em super ajuda
 
-
+<!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipeSima&count_private=true&show_icons=true&title_color=f75026&bg_color=2e2e2e&text_color=f5f5f5&icon_color=f75026&hide=issues,contribs)
 ](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipeSima&layout=compact&title_color=f75026&bg_color=2e2e2e&text_color=f5f5f5)](https://github.com/anuraghazra/github-readme-stats)
 
