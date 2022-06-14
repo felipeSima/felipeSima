@@ -1,8 +1,10 @@
 ![](https://github.com/felipeSima/felipeSima/blob/main/recursos/Group%209.png)
 
-#### tudo bão com vocês? 👋
-Formado em engenharia eletrônica mas apaixonado pela engenharia de software, trabalho atualmente com desenvolvimento mobile.
-Como todo super-heroi, uso minhas habilidades mágicas pra transformas linhas de lógica em super ajuda
+#### Hello Yall? 👋
+- 🌱 Electronic Engineer by University Degree.
+- 😎 Mobile Developer by Heart.
+- ⚡ Fun fact: I'm a D&D addicted and I try to travel the world while I'm coding and adventuring.
+
 
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipeSima&count_private=true&show_icons=true&title_color=f75026&bg_color=2e2e2e&text_color=f5f5f5&icon_color=f75026&hide=issues,contribs)
