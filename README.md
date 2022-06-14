@@ -1,6 +1,6 @@
 ![](https://github.com/felipeSima/felipeSima/blob/main/recursos/Group%209.png)
 
-#### Hello Yall? 👋
+#### Hello Peps? 👋
 - 🌱 Electronic Engineer by University Degree.
 - 😎 Mobile Developer by Heart.
 - ⚡ Fun fact: I'm a D&D addicted and I try to travel the world while I'm coding and adventuring.
