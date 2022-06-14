@@ -2,7 +2,7 @@
 
 #### Hello Peps? 👋
 - 🌱 Electronic Engineer by University Degree.
-- 😎 Mobile Developer by Heart.
+- 😎 Mobile Developer by heart, choice and career.
 - ⚡ Fun fact: I'm a D&D addicted and I try to travel the world while I'm coding and adventuring.
 
 
