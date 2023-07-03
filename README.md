@@ -5,7 +5,7 @@
 - 😎 Mobile Developer by heart, choice and career.
 - ⚡ Fun fact: I'm a D&D addicted and I try to travel the world while I'm coding and adventuring.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=felipeSima&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=felipeSima&theme=highcontrast&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipeSima&count_private=true&show_icons=true&title_color=f75026&bg_color=2e2e2e&text_color=f5f5f5&icon_color=f75026&hide=issues,contribs)
 ](https://github.com/anuraghazra/github-readme-stats)
