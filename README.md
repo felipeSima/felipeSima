@@ -7,17 +7,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=felipeSima&theme=highcontrast&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
-Gu
-[![GitHub Streak](https://streak-stats.demolab.com?user=gstcarv)](https://git.io/streak-stats)
-
-Pe
-[![GitHub Streak](https://streak-stats.demolab.com?user=pedr0luiz)](https://git.io/streak-stats)
-
-An
-[![GitHub Streak](https://streak-stats.demolab.com?user=andrekkss)](https://git.io/streak-stats)
-
-Em
-[![GitHub Streak](https://streak-stats.demolab.com?user=e-nicolas)](https://git.io/streak-stats)
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipeSima&count_private=true&show_icons=true&title_color=f75026&bg_color=2e2e2e&text_color=f5f5f5&icon_color=f75026&hide=issues,contribs)
 ](https://github.com/anuraghazra/github-readme-stats)
